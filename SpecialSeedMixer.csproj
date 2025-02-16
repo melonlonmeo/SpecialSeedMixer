@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>SpecialSeedMixer</AssemblyName>
+    <RootNamespace>SpecialSeedMixer</RootNamespace>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="TShockAPI">
+      <HintPath>lib\TShockAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="TerrariaServer">
+      <HintPath>lib\TerrariaServer.dll</HintPath>
+    </Reference>
+    <Reference Include="OTAPI">
+      <HintPath>lib\OTAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="ModFramework">
+      <HintPath>lib\ModFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project> 
