@@ -7,6 +7,6 @@ sau đó dùng lệnh
 /mixseeds
 rồi đợi
 ![image](https://github.com/user-attachments/assets/7039abd7-30f3-40ed-9c27-5d63ea243bf4)
-Kết quả :
+
 
 
